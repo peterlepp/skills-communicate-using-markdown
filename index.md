@@ -1,4 +1,4 @@
 # Learn MD in Github
 ## Have Fun with the Syntax
-### Add a IMG to the MD
-![Neues Bild Zu MD](https://myoctocat.com/assets/images/base-octocat.svg)
+### Add a Octocat-IMG to the MD-file
+![Octocat als Bild in einer MD-datei](https://myoctocat.com/assets/images/base-octocat.svg)
